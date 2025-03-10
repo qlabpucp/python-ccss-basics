@@ -9,7 +9,7 @@ Este taller introductorio está dirigido a estudiantes de la Facultad de Ciencia
 
 Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero también se mostrará su uso en **Jupyter Notebook**.
 
-📅 **Horario:** Lunes 10 de marzo - Viernes 14 de marzo (3:00 pm - 5:00 pm). Enlace a clases: https://pucp.zoom.us/j/95463408911
+📅 **Horario:** Lunes 10 de marzo - Viernes 14 de marzo (3:00 pm - 5:00 pm). **Enlace a clases**: https://pucp.zoom.us/j/95463408911
 
 👨‍🏫 **Encargado:** Michael Encalada ([m.encaladac@pucp.edu.pe](mailto:m.encaladac@pucp.edu.pe))
 
@@ -19,8 +19,8 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 
 ### 🗂 Sesión 1: Introducción a Python y manejo de bases de datos
 - 📌 Introducción a Python y familiarización con Google Colab
-- 📌 Tipos de datos en Python
-- 📌 Estructura de datos Python
+- 📌 Objetos y funciones en Python
+- 📌 Tipos de datos y estructura de datos Python
 - 📌 Exploración inicial con librería Pandas
 
 ### 📊 Sesión 2: Análisis estadístico descriptivo en Python
@@ -48,7 +48,7 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 ---
 
 
-## 📅 materiales y notebooks en Google Colab
+## 📚 Materiales y notebooks en Google Colab
 
 | Sesión  |Temas                                              | Enlace |
 |---------|---------------------------------------------------|--------------------------|
@@ -70,7 +70,7 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 
 ---
 
-## 🎥 Recursos y Grabaciones
+## 🎥 Grabaciones de clase
 - 📌 Grabaciones disponibles al finalizar cada sesión en la siguiente lista de reproducción: 
 
 🚀 **¡Te esperamos en el curso para explorar juntos el poder de Python en las Ciencias Sociales!** 🔥
