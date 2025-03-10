@@ -50,13 +50,15 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 
 ## 📚 Materiales y notebooks en Google Colab
 
+Enlace a drive: https://drive.google.com/drive/folders/1P49NUYw3mWhuX57O-ArHmKQIMcfrpeMq?usp=sharing
+
 | Sesión  |Temas                                              | Enlace |
 |---------|---------------------------------------------------|--------------------------|
 | 1       |  Introducción a Python | https://colab.research.google.com/drive/1BFBB6z7DGdlEi9SkN2H01WzYQTd7vA-c?usp=sharing |
-| 2       | Análisis estadístico descriptivo en Python        | . |
-| 3       | Creación de gráficos y visualización de datos | . |
-| 4       |Creación de gráficos y visualización de datos II | . |
-| 5       | Introducción a la inteligencia artificial con GPT | . |
+| 2       | Análisis estadístico descriptivo en Python        | https://colab.research.google.com/drive/16YMLIf04M3r_bI86sdXAIWfsJcNsJ-G2?usp=sharing   |
+| 3       | Creación de gráficos y visualización de datos | https://drive.google.com/file/d/1J6oMmJDozydRekzTtCwkV4X7o999T9zD/view?usp=sharing |
+| 4       |Creación de gráficos y visualización de datos II | https://colab.research.google.com/drive/1-s_mNj8AV8n9HOU68DyCSmjM6UCyCKaU?usp=sharing |
+| 5       | Introducción a la inteligencia artificial con GPT | https://drive.google.com/file/d/1QgZGdIw4lssGyYLK5i4yU4wYxuxbjGvg/view?usp=sharing |
 
 ---
 
@@ -71,7 +73,7 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 ---
 
 ## 🎥 Grabaciones de clase
-- 📌 Grabaciones disponibles al finalizar cada sesión en la siguiente lista de reproducción: 
+- 📌 Grabaciones disponibles al finalizar cada sesión en la siguiente lista de reproducción: https://www.youtube.com/playlist?list=PLqq4bX-XIg35T9fx-Cw_jncNgm9bKabbn
 
 🚀 **¡Te esperamos en el curso para explorar juntos el poder de Python en las Ciencias Sociales!** 🔥
 
