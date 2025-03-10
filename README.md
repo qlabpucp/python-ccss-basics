@@ -1,8 +1,8 @@
-# Introducción a Python para Ciencias Sociales 2025-1
+# Taller Introductorio de Programación a Python para Ciencias Sociales 2025-1
 
 ## 🐍 Introducción a Python para Ciencias Sociales
 
-![image](https://github.com/user-attachments/assets/6a7ecae2-2104-45d7-a582-4e86b56a479e)
+<img src="https://github.com/user-attachments/assets/6a7ecae2-2104-45d7-a582-4e86b56a479e" width="300">
 
 ### 📝 Resumen
 Este taller introductorio está dirigido a estudiantes de la Facultad de Ciencias Sociales de la PUCP y tiene como objetivo capacitar en el manejo del lenguaje de programación Python de manera amigable y relevante para el análisis en ciencias sociales. Se abordará el **análisis estadístico descriptivo**, el **manejo de bases de datos**, la **visualización de datos** y la **aplicación de inteligencia artificial** en el análisis cualitativo. Trabajaremos con bases de datos como la **ENAHO, ENDES y Latinobarómetro**.
