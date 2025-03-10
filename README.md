@@ -52,7 +52,7 @@ Los códigos de Python se escribirán y ejecutarán en **Google Colab**, pero ta
 
 | Sesión  |Temas                                              | Enlace |
 |---------|---------------------------------------------------|--------------------------|
-| 1       |  Introducción a Python | .|
+| 1       |  Introducción a Python | https://colab.research.google.com/drive/1BFBB6z7DGdlEi9SkN2H01WzYQTd7vA-c?usp=sharing|
 | 2       | Análisis estadístico descriptivo en Python        | . |
 | 3       | Creación de gráficos y visualización de datos | . |
 | 4       |Creación de gráficos y visualización de datos II | . |
