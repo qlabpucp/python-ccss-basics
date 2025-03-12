@@ -63,6 +63,9 @@ Enlace a drive: https://drive.google.com/drive/folders/1P49NUYw3mWhuX57O-ArHmKQI
 ---
 
 ## 📝 Evaluación
+Se realiza en grupos de 5 personas. Aquí pueden encontrar sus grupos: https://docs.google.com/spreadsheets/d/1Phk01Nv3kMvSfWt_Yvyzq2B2KrLuojsz-nn7GgWp5UE/edit?gid=0#gid=0
+
+La asistencia se toma de manera diaria, pueden ver su asistencia aquí: https://docs.google.com/spreadsheets/d/1LUgLCfGyiS5mUdCIS56IOo7go-_Ne8G5rB39eZInLIE/edit?gid=547590861#gid=547590861
 
 | Actividad de aprendizaje | Porcentaje |
 |--------------------------|------------|
